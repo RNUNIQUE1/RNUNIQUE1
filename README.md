@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RNUNIQUE1
+- 👋 Hi, I’m @nitish_yadav
 - 👀 I’m interested in cyber security
 - - 🌱 I’m currently learning how to create a code correcter or commenter
 - 💞️ I’m looking to collaborate on cyber security company 
