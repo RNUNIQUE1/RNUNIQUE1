@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nitish_yadav
-- 👀 I’m interested in cyber security
+- 👀 I’m interested in data science, data analytics and data engineer
 - - 🌱 I’m currently learning how to create a code correcter or commenter
 - 💞️ I’m looking to collaborate on cyber security company 
 - 📫 How to reach me contect me on gethub
